@@ -17,7 +17,7 @@ Este es un proyecto realizado en C++ usando Unreal Engine 4 por Juan Pablo Espin
 El resultado de este proyecto se fundamenta en las lecciones enseñadas por Ben Tristem en su curso junto con
 ciertas modificaciones propias del autor.
 
-El presente proyecto consisten en un nivel muy simple en el que el usuario se encuentra encerrado en una habitación y ha de
+El presente proyecto consiste en un nivel muy simple en el que el usuario se encuentra encerrado en una habitación y ha de
 escapar de la misma haciendo uso de la lógica y la física.
 
 Si está interesado en el curso, por favor acuda a la página asociada para más detalles: https://www.udemy.com/unrealcourse/
